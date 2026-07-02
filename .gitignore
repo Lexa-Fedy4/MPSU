@@ -1,0 +1,28 @@
+# Сборки Atmel Studio / IDE
+Debug/
+Release/
+.vs/
+*.atsln
+*.cproj
+*.componentinfo.xml
+
+# Объектные и бинарные файлы
+*.o
+*.obj
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.sym
+
+# Временные файлы
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
